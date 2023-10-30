@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.saqibsuleman.com/](https://www.saqibsuleman.com/)
 
-- 💬 Ask me about **MERN, Next.js**
+- 💬 Ask me about **MERN, Next.js, Nest.js, Agile Software Development**
 
-- 📫 How to reach me **saqibs3291@gmail.com**
+- 📫 Reach me at **saqibs3291@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
