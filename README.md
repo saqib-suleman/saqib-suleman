@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1605379399843-5870eea9b74e?auto=format&fit=crop&q=80&w=2098&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![MasterHead](/public/assets/macbook.jpg)
 <h1 align="center">Hi 👋, I'm Saqib</h1>
 <h3 align="center">Excitingly working with MERN, Next.js, Nest.js</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/3odR.gif" />
