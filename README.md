@@ -1,10 +1,10 @@
+<img src="https://raw.githubusercontent.com/saqib-suleman/saqib-suleman/main/public/assets/macbook.jpg" alt="MacBook" width="100%" />
+
 ## Hi, I’m Saqib
 
 Software engineer with 7+ years of experience building SaaS and AI products with global teams and early-stage startups.
 
 I work across frontend, backend, databases and cloud infrastructure, taking features from design through production.
-
-### Engineering interests
 
 Maintainable applications, data-intensive interfaces, efficient database access and reliable integrations.
 
