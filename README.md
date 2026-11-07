@@ -1,30 +1,26 @@
-![MasterHead](/public/assets/macbook.jpg)
-<h1 align="center">Hi 👋, I'm Saqib</h1>
-<h1><a href="https://github.com/saqib-airflip">Check out my contributions on my work profile.</a></h2>
-<h3 align="center">Software Engineer | MERN Stack | Agile Development | I help create and maintain enterprise level web apps</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3odR.gif" />
+## Hi, I’m Saqib
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqib-suleman&label=Profile%20views&color=0e75b6&style=flat" alt="saqib-suleman" /> </p>
+Software engineer with 7+ years of experience building SaaS and AI products with global teams and early-stage startups.
 
-<p align="left"> <a href="https://twitter.com/saqib_suleman1" target="blank"><img src="https://img.shields.io/twitter/follow/saqib_suleman1?logo=twitter&style=for-the-badge" alt="saqib_suleman1" /></a> </p>
+I work across frontend, backend, databases and cloud infrastructure, taking features from design through production.
 
-- 🔭 I’m currently working on [Airflip](https://www.airflip.com/)
+### Engineering interests
 
-- 🌱 I’m currently learning **Next.js v14, TDD, and Under the hood working of Node.js**
+Maintainable applications, data-intensive interfaces, efficient database access and reliable integrations.
 
-- 👨‍💻 All of my projects are available at [https://www.saqibsuleman.com/](https://www.saqibsuleman.com/)
+### Technologies
 
-- 💬 Ask me about **MERN, Next.js, Nest.js, Agile Software Development**
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **Backend:** C#/.NET, Entity Framework Core, Node.js, Nest.js, Express.js
+- **Databases:** SQL Server, PostgreSQL, MongoDB, Redis
+- **Cloud and delivery:** Azure, Docker, CI/CD
 
-- 📫 Reach me at **saqibs3291@gmail.com**
+### Professional work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saqib_suleman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saqib_suleman1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saqib-suleman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saqib-suleman" height="30" width="40" /></a>
-</p>
+Currently a Lead Software Engineer and Founding Engineer at Joy. Development takes place in private Azure DevOps repositories, so that activity isn’t reflected in this GitHub profile.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2048-swmlmjca.png" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Previously a Senior Software Engineer and Founding Engineer at Airflip. My previous work account is [saqib-airflip](https://github.com/saqib-airflip).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-suleman&" alt="saqib-suleman" /></p>
+This account contains personal projects, experiments and earlier learning work.
+
+[Portfolio](https://www.saqibsuleman.com) · [LinkedIn](https://www.linkedin.com/in/saqib-suleman/)
